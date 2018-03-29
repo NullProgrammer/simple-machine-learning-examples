@@ -13,4 +13,4 @@ neigh.fit(X, Y)
 
 prediction = neigh.predict([[190, 70, 43]])
 
-print prediction
+print (prediction)
