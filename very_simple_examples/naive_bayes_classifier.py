@@ -12,4 +12,4 @@ gnb = gnb.fit(X, Y)
 
 prediction = gnb.predict([[190, 70, 43]])
 
-print prediction
+print (prediction)
